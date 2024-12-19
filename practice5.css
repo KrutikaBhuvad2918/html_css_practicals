@@ -1,0 +1,86 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    /* border: 1px solid black;  */
+    height: 740px;
+    background-color: powderblue;
+    
+}
+.header{
+    /* border: 1px solid orange; */
+    display: flex;
+    padding: 14px;
+    background-color: rgb(139, 181, 196);
+}
+.logo{
+    /* border: 1px solid red;   */
+    margin-left: 15px;
+    width: 10% 
+}
+.nav{
+    /* border: 1px solid purple; */
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    margin-left: 820px;
+}
+.caption{
+    /* border: 1px solid black; */
+    width: 20%;
+    margin-top: 8%;
+    margin-left: 44%;
+}
+.container{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 6%;
+}
+.box1{
+    /* border: 1px solid yellow; */
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 280px;
+    background-color: mistyrose;
+    box-shadow: 10px 10px 10px lightcoral; 
+}
+.box2{
+    /* border: 1px solid yellow; */
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 280px;
+    background-color:mistyrose;
+    box-shadow: 10px 10px 10px lightcoral;
+}
+.box3{
+    /* border: 1px solid yellow; */
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 280px;
+    background-color: mistyrose;
+    box-shadow: 10px 10px 10px lightcoral;
+}
+.round{
+    /* border: 1px solid red; */
+    width: 37%;
+    height: 32%;
+    border-radius: 63px;
+    background-color: silver;
+    margin-left: 76px;
+    margin-top: 25px;
+}
+.para{
+    /* border: 1px solid green; */
+    margin-left: 49px;
+    margin-top: 20px;
+    width: 54%;
+    padding: 10px;
+
+}
